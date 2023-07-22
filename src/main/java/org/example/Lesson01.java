@@ -36,4 +36,6 @@ public class Lesson01 {
             System.out.println(dodanok1 + " " + simbol + " " + dodanok2 + " = " + result);
         }
     }
+
+
 }
